@@ -1,0 +1,16 @@
+import 'package:flutter/material.dart';
+
+class AppDrawer extends StatelessWidget {
+  const AppDrawer({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return const Drawer(
+      child: Center(
+        child: Text(
+          'Drawer',
+        ),
+      ),
+    );
+  }
+}
