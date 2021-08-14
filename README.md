@@ -1,2 +1,2 @@
 # profile_ui
- A basic UI for User Profile.
+ It is a basic UI for User Profile.
